@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Pushster&display=swap");
+
 main {
   min-height: 80vh;
 }
@@ -18,7 +20,14 @@ h2 {
   font-size: 1.4rem;
   padding: 0.5rem 0;
 }
-
+.logo-text {
+  font-family: "Pushster", cursive;
+  font-size: 25px;
+  color: azure;
+}
+.box {
+  border: solid greenyellow;
+}
 
 /* carousel */
 .carousel-item-next,
