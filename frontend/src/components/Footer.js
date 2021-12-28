@@ -16,8 +16,7 @@ const Footer = () => {
               />
               <span className='logo-text p-2'>ProShop</span>
               <p className='p-2'>
-                Here you can use rows and columns here to organize your footer
-                content.
+                Find the best products for the most affordable prices
               </p>
             </Col>
             <Col className='m-3 px-5 text-center'>
